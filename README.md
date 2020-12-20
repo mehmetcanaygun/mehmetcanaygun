@@ -6,7 +6,7 @@
 
 ## Technologies & Tools That I Use / am Familiar With
 
-- 📌 HTML5
+- 📌 HTML5                    - 📌 Git
 - 📌 CSS3
 - 📌 Javascript
 - 📌 Sass CSS Preprocessor
