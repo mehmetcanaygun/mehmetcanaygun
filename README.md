@@ -23,4 +23,4 @@
 - 📌 Visual Studio Code
 - 📌 Git
 
-For more information you can visit <a href="https://mehmetcanaygun.netlify.app/" target="_blank">my website 🔗</a>.
+For more information you can visit <a href="https://mehmetcanaygun.com/" target="_blank">my website 🔗</a>.
