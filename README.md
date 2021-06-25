@@ -2,7 +2,7 @@
 
 # Hi!
 
-> I'm Mehmet Can, 25 years old Computer Science and Engineering graduate who's currently trying to specialize in web development. I usually spend my time building fun web apps, creating websites that have nice look, and improving my skills. My goal is to become a full stack developer.
+> I'm Mehmet Can, 25 years old Computer Science and Engineering graduate who's currently trying to specialize in web development. I usually spend my time building fun web apps, creating websites that have nice look, and improving my skills.
 
 ## Technologies & Tools That I Use / am Familiar With
 
