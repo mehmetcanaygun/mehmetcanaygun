@@ -15,11 +15,6 @@
 - 📌 NodeJS
 - 📌 ExpressJS
 - 📌 MongoDB
-- 📌 PHP
-- 📌 MySQL
-- 📌 Python
-- 📌 C
-- 📌 Java
 - 📌 Visual Studio Code
 - 📌 Git
 
