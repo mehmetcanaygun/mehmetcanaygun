@@ -59,9 +59,3 @@
 <p align="left">
   You can contact me on <a href="https://www.linkedin.com/in/mehmetcanaygun/" target="_blank" rel="noreferrer">LinkedIn</a>, or send me an email at <a href="mailto:mehmetcanaygun@gmail.com" target="_blank" rel="noreferrer">mehmetcanaygun@gmail.com</a>.
 </p>
-
-<hr />
-
-<p align="left">
-  Visit <a href="https://www.mehmetcanaygun.com/" target="_blank" rel="noreferrer">my website </a> for more information.
-</p>
